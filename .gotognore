@@ -1,0 +1,4 @@
+npmnode_modules/
+  .env
+  build/
+  *.log
